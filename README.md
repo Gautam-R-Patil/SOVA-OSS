@@ -33,7 +33,7 @@
 >
 > **This copy is frozen and no longer updated.** Gautam R. Patil started SOVA OSS
 > on 28 July 2026. Papers built on it are released at
-> [TRUSCOR/sova-research](https://github.com/TRUSCOR/sova-research), and working
+> [TRUSCOR/research](https://github.com/TRUSCOR/research), and working
 > drafts are kept at [Gautam-R-Patil/research-papers](https://github.com/Gautam-R-Patil/research-papers).
 
 ---
