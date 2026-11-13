@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/TRUSCOR/SOVA-OSS"><img alt="Active development" src="https://img.shields.io/badge/ACTIVE%20DEVELOPMENT-TRUSCOR%2FSOVA--OSS-0B8793?style=for-the-badge"></a>
-  <img alt="This repo" src="https://img.shields.io/badge/THIS%20REPO-v1%20PROTOTYPE-6554C0?style=for-the-badge">
+  <img alt="This repo" src="https://img.shields.io/badge/THIS%20REPO-v1%20PROTOTYPE%2C%20FROZEN-6554C0?style=for-the-badge">
   <a href="./LICENSE"><img alt="Apache License 2.0" src="https://img.shields.io/badge/LICENSE-Apache--2.0-D22128?style=for-the-badge"></a>
   <img alt="Status" src="https://img.shields.io/badge/STATUS-PRE--ALPHA-FFB000?style=for-the-badge">
 </p>
@@ -30,6 +30,11 @@
 > **All active development has moved to [github.com/TRUSCOR/SOVA-OSS](https://github.com/TRUSCOR/SOVA-OSS).**
 > Issues, pull requests and releases belong there. This copy stays as the record
 > of where the project started.
+>
+> **This copy is frozen and no longer updated.** Gautam R. Patil started SOVA OSS
+> on 28 July 2026. Papers built on it are released at
+> [TRUSCOR/sova-research](https://github.com/TRUSCOR/sova-research), and working
+> drafts are kept at [Gautam-R-Patil/research-papers](https://github.com/Gautam-R-Patil/research-papers).
 
 ---
 
